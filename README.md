@@ -53,7 +53,7 @@ Run after build
 
 It's worth to notice that `pollClient3` is used by totally new account
 that has been generated in runtime. Due to this fact, a small amount ot Ether
-needs to be transferred to that account in order to let him vote and pay the gas.
+needs to be transferred to that account in order to let it vote and pay the gas.
 
 
 ### Testing
